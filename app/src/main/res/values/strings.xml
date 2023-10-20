@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bordadora Activity4</string>
+    <string name="theme">Theme</string>
+    <string name="lightmode">Light Mode</string>
+    <string name="darkmode">Dark Mode</string>
+    <string name="notification">Notification</string>
+    <string name="pushnotif">Allow Push Notifications</string>
+    <string name="profile">Profile Detail</string>
+    <string name="email">Email</string>
+    <string name="nickname">Nickname</string>
+    <string name="save">Save</string>
+</resources>

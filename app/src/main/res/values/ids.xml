@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="themes" type="id" />
+    <item name="textview" type="id" />
+    <item name="lightmode" type="id" />
+    <item name="darkmode" type="id" />
+    <item name="notification" type="id" />
+    <item name="pushnotif" type="id" />
+    <item name="profile" type="id" />
+    <item name="email" type="id" />
+    <item name="nickname" type="id" />
+    <item name="save" type="id" />
+</resources>
